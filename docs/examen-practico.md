@@ -1,4 +1,4 @@
-# Lee el dataframe y realiza los siguientes ejercicios:
+Lee el dataframe y realiza los siguientes ejercicios:
 - Indica el numero de filas y columnas 
 - Cambia el nombre de las columnas 
 - ¿Cuantos hombres y mujeres hay? 
