@@ -1,7 +1,9 @@
 Ejomplo de grafico de cajas simple.
 
 -Visualización de una sola variable: Este tipo de diagrama te muestra la distribución de una única variable numérica, como la edad en nuestro ejemplo.
+
 -Elementos clave: La caja, la línea de la mediana y los bigotes te ofrecen una visión rápida de los cuartiles, la mediana y los valores extremos de los datos.
+
 -Ideal para: Entender la dispersión de los datos, identificar valores atípicos y evaluar la simetría de la distribución.
 
 ```python
@@ -25,7 +27,9 @@ Ejemplo de grafico de cajas multiples.
 
 
 -Comparación de múltiples grupos: Cuando tienes datos categorizados (por ejemplo, grupos A y B), puedes crear diagramas de cajas para comparar la distribución de una variable numérica entre esos grupos.
+
 -Visualización de diferencias: Al colocar los diagramas de cajas uno al lado del otro, puedes identificar fácilmente si existe una diferencia significativa en la distribución de los datos entre los grupos.
+
 -Ideal para: Analizar si hay diferencias significativas entre grupos, identificar grupos atípicos y comparar la variabilidad entre grupos.
 
 ```python
