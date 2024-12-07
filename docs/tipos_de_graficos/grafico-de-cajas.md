@@ -1,4 +1,4 @@
-Ejomplo de grafico de cajas simple.
+Ejemplo de grafico de cajas simple.
 
 -Visualización de una sola variable: Este tipo de diagrama te muestra la distribución de una única variable numérica, como la edad en nuestro ejemplo.
 
