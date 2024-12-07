@@ -1,4 +1,6 @@
 Muestran valores en una matriz.
+Representa valores en una matriz como colores. Es útil para mostrar relaciones o patrones en grandes cantidades de datos.
+Aplicaciones: Se usa en análisis de correlaciones, patrones de datos, y datos categóricos con frecuencia.
 
 ```python
 import plotly.figure_factory as ff

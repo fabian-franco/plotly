@@ -1,4 +1,5 @@
 Muestran tendencias a lo largo del tiempo o de una variable.
+Se utiliza para mostrar tendencias o cambios en los datos a lo largo del tiempo o en relación con una variable continua.
 
 ```python
 import plotly.graph_objects as go

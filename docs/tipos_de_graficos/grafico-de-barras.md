@@ -1,5 +1,6 @@
 Compara diferentes categorías.
-
+Representa datos categóricos o comparaciones entre diferentes categorías mediante barras rectangulares.
+Variantes: Gráficos de barras apiladas, horizontales, etc.
 ```python
 import plotly.express as px
 

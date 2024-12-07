@@ -1,5 +1,6 @@
 Visualizan relaciones entre dos variables.
-
+Muestra la relación entre dos variables continuas utilizando puntos. Se utiliza para identificar correlaciones o patrones en los datos.
+Variantes: Se puede agregar una dimensión extra con colores o tamaños de los puntos.
 ```python
 import plotly.express as px
 

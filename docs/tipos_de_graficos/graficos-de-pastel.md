@@ -1,4 +1,6 @@
 Ideales para mostrar proporciones.
+Representa proporciones relativas de un conjunto de categorías como sectores de un círculo.
+Variantes: Gráficos de pastel con subgrupos (donut charts).
 
 ```python	
 import plotly.graph_objects as go
