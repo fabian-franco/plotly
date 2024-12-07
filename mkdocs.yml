@@ -1,3 +1,7 @@
 site_name: Plotly Guia CIP
+site_url: https://squidfunk.github.io/mkdocs-material/
+site_author: Martin Donath
+
+
 theme:
   name: material

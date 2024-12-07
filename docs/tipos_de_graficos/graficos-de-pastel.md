@@ -21,3 +21,6 @@ fig.update_layout(
 # Mostrar el gráfico
 fig.show()
 ```
+El resultado es el siguiente:
+
+![Grafico de pastel](../images/pastel.png)

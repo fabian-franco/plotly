@@ -12,3 +12,6 @@ fig = px.scatter(df, x="sepal_length", y="sepal_width", color="species", size="p
 # Mostramos el gráfico
 fig.show()
 ```
+El resultado es el siguiente:
+
+![Grafico de dispersión](../images/dispersion.png)

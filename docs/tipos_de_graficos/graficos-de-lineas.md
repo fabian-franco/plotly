@@ -13,3 +13,6 @@ fig = go.Figure(data=go.Scatter(x=x, y=y, mode='lines'))
 # Mostramos el gráfico
 fig.show()
 ```
+El resultado es el siguiente:
+
+![Grafico de lineas](../images/linea.png)

@@ -12,3 +12,6 @@ fig = px.bar(df, x="sepal_length", y="species", color="species", barmode='group'
 # Lo imprimimos
 fig.show()
 ```
+El resultado es el siguiente:
+
+![Grafico de barras](../images/barras.png)

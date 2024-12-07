@@ -14,3 +14,6 @@ fig = ff.create_annotated_heatmap(z=z)
 # Mostramos el gráfico
 fig.show()
 ```
+El resultado es el siguiente:
+
+![Grafico de calor](../images/mapa-calor.png)
