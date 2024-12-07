@@ -1,11 +1,14 @@
 Visualizan relaciones entre dos variables.
 
 ```python
-import plotly.graph_objects as go
+import plotly.express as px
 
-x = [1, 2, 3, 4, 5]
-y = [10, 14, 19, 25, 32]
+# Datos aleatorios
+df = px.data.iris()
 
-fig = go.Figure(data=go.Scatter(x=x, y=y, mode='markers', name='Puntos'))
+# Creamos el gráfico
+fig = px.scatter(df, x="sepal_length", y="sepal_width", color="species", size="petal_length")
+
+# Mostramos el gráfico
 fig.show()
 ```

@@ -1,11 +1,14 @@
 Compara diferentes categorías.
 
 ```python
-import plotly.graph_objects as go
+import plotly.express as px
 
-categorias = ['A', 'B', 'C', 'D']
-valores = [10, 15, 7, 12]
+# Importamos px para datos ficticios
+df = px.data.iris()
 
-fig = go.Figure(data=go.Bar(x=categorias, y=valores))
+# Creamos el grafico
+fig = px.bar(df, x="sepal_length", y="species", color="species", barmode='group')
+
+# Lo imprimimos
 fig.show()
 ```

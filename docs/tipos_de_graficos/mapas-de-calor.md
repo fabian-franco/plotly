@@ -1,11 +1,16 @@
 Muestran valores en una matriz.
 
 ```python
-import plotly.graph_objects as go
-import numpy as np
+import plotly.figure_factory as ff
 
-z = np.random.rand(5, 5)  # Matriz aleatoria de 5x5
+# Datos aleatorios
+z = [[1, 20, 30],
+     [20, 1, 60],
+     [30, 60, 1]]
 
-fig = go.Figure(data=go.Heatmap(z=z))
+# Creamos el gráfico
+fig = ff.create_annotated_heatmap(z=z)
+
+# Mostramos el gráfico
 fig.show()
 ```
