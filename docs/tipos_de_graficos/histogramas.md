@@ -14,4 +14,4 @@ fig.show()
 ```
 El resultado es el siguiente:
 
-![Grafico de histograma](../images/histograma.pngs)
+![Grafico de histograma](../images/histograma.png)
